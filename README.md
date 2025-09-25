@@ -3,7 +3,7 @@
 **RishOS** is an **open-source, borderless operating system**.  
 The vision: **run any file, from Windows, macOS, or Linux, from a single platform** — no walls, no friction.  
 
-On top of this foundation, rishOS will ship with a built-in **AI Copilot** (powered by open-source models like LLaMA and beyond) to help users:  
+On top of this foundation, RishOS will ship with a built-in **AI Copilot** (powered by open-source models like LLaMA and beyond) to help users:  
 - ⚡ Interact naturally (chat, casual, or technical)  
 - 📚 Write and improve documentation  
 - 💻 Generate, review, and debug code  
